@@ -12,5 +12,5 @@ mp3lib.py contains the required reusable functions used by the notebook.
 The team seed is 1137852084.
 
 # Runtime
-Total runtime from a clean kernel: approximately ___ seconds.
+Total runtime from a clean kernel: approximately 16.21 seconds.
 
